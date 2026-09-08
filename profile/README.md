@@ -17,4 +17,9 @@ The executor is AGPL-3.0 and the images are MIT. Setup and configuration live in
 
 Found a security problem? Email security@unifiedprojects.co.uk rather than filing a public issue.
 
-Built by [Unified Projects](https://unifiedprojects.co.uk).
+<a href="https://unifiedprojects.co.uk">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://unifiedprojects.co.uk/assets/unified-projects-badge-built-by-dark.svg">
+    <img alt="Built by Unified Projects" src="https://unifiedprojects.co.uk/assets/unified-projects-badge-built-by-light.svg" height="48">
+  </picture>
+</a>
