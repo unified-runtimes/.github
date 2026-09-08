@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"
+     width="512" height="512" role="img" aria-labelledby="title">
+  <title id="title">Unified Runtimes</title>
+  <rect width="512" height="512" fill="#161822"/>
+  <rect x="100" y="100" width="312" height="312" rx="52"
+        fill="none" stroke="#FF5733" stroke-width="36"/>
+  <polygon points="167,204.402 232.67,256 167,307.598"
+        fill="#FF5733" stroke="#FF5733" stroke-width="14" stroke-linejoin="round"/>
+  <polygon points="275,204.402 340.67,256 275,307.598"
+        fill="#FF5733" stroke="#FF5733" stroke-width="14" stroke-linejoin="round"/>
+</svg>

@@ -1,6 +1,7 @@
-<!-- Logo: profile/logo.svg -->
-
-# Unified Runtimes
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile/logo-dark.svg">
+  <img alt="Unified Runtimes" src="profile/logo.svg" width="420">
+</picture>
 
 Open-source serverless compute, in two repos.
 
